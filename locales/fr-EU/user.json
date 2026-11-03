@@ -1,6 +1,8 @@
 {
 	"ign.short": "PEJ",
 	"widget.luti-div.season": "Saison {{season}}",
+	"widgets.search": "Rechercher des Widgets...",
+	"widgets.forms.gameBadgesSearch": "Rechercher des badges par nom...",
 	"stickSens": "Sensibilité du stick droit",
 	"motionSens": "Sensibilité du gyroscope",
 	"results.placing": "Placement",
@@ -22,6 +24,7 @@
 	"seasons.source.SENDOUQ": "SendouQ",
 	"seasons.source.TOURNAMENT": "Tournois",
 	"seasons.ends": "finit dans {{time}}",
+	"seasons.vs": "VS",
 	"seasons.tournaments": "Tournois",
 	"seasons.stats.title": "Statistiques de la saison {{season}}",
 	"seasons.stats.rank": "Rang SendouQ",
@@ -46,5 +49,6 @@
 	"builds.sorting.UPDATED_AT": "Dernière mise à jour",
 	"builds.sorting.TOP_500": "Rank X Top 500",
 	"builds.sorting.WEAPON_POOL": "Armes jouées",
-	"builds.sorting.MODE": "Mode"
+	"builds.sorting.MODE": "Mode",
+	"card.edit.title": "Modifier la fiche utilisateur"
 }

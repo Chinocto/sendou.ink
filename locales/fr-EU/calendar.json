@@ -29,5 +29,17 @@
 	"filter.exactModes": "Modes exacts",
 	"filter.games": "Parties",
 	"filter.vs": "Contre",
+	"filter.startTime": "Heure de début",
+	"filter.startTime.any": "N'importe",
+	"filter.startTime.eu": "Europe",
+	"filter.startTime.na": "Amériques",
+	"filter.startTime.au": "AU/NZ",
+	"filter.minTeamCount": "Minimum nombre d'équipes",
+	"filterBar.eventType": "Type d'événement",
+	"filterBar.tier": "Tier",
+	"filterBar.tags": "Tags",
+	"filterBar.organizers": "Organisateurs",
+	"filterBar.timeAndSize": "Heure & Taille",
+	"builder.fact.skipped.THIRD_PLACE_MATCH": "Pas de match pour la 3ème place",
 	"newTournament.prizeKind.trophy": "Trophée"
 }
